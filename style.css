@@ -60,7 +60,7 @@
   position: relative;
   height: 80%;
   display: flex;
-  justify-content: space-evenly;
+  justify-content: center;
   align-items: center;
   flex-direction: column;
   flex: 1;
